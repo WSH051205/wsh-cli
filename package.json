@@ -1,5 +1,5 @@
 {
-	"name": "wsh-cli",
+	"name": "mrwu-cli",
 	"version": "0.0.3",
 	"description": "wsh-cli 脚手架",
 	"main": "index.js",
