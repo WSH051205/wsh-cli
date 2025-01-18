@@ -1,6 +1,6 @@
 {
-	"name": "lihang-cli",
-	"version": "1.0.0",
+	"name": "wsh-cli",
+	"version": "0.0.3",
 	"description": "wsh-cli 脚手架",
 	"main": "index.js",
 	"scripts": {
@@ -13,9 +13,9 @@
 		"Typescript",
 		"Element-plus"
 	],
-	"author": "lihang",
+	"author": "wsh",
 	"bin": {
-		"lihang": "bin/index.js"
+		"wsh": "bin/index.js"
 	},
 	"files": [
 		"dist",
